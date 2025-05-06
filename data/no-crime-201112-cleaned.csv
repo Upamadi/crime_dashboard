@@ -1,0 +1,485 @@
+Financial_Year,Force_Name,Offence_Group,Force_Offences,Force_No_Crimes
+2011/12,Avon & Somerset,Burglary,13446,523
+2011/12,Avon & Somerset,Criminal damage,18871,970
+2011/12,Avon & Somerset,Drug offences,7043,112
+2011/12,Avon & Somerset,Fraud and forgery,3586,2029
+2011/12,Avon & Somerset,Offences against vehicles,10305,608
+2011/12,Avon & Somerset,Other offences,1373,208
+2011/12,Avon & Somerset,Other theft offences,32919,2710
+2011/12,Avon & Somerset,Robbery,1210,129
+2011/12,Avon & Somerset,Sexual offences which are rape,481,53
+2011/12,Avon & Somerset,Total Sexual offences,1714,166
+2011/12,Avon & Somerset,Violence against the person,24719,2332
+2011/12,Bedfordshire,Burglary,5559,88
+2011/12,Bedfordshire,Criminal damage,6857,71
+2011/12,Bedfordshire,Drug offences,1740,27
+2011/12,Bedfordshire,Fraud and forgery,1530,211
+2011/12,Bedfordshire,Offences against vehicles,4790,214
+2011/12,Bedfordshire,Other offences,500,69
+2011/12,Bedfordshire,Other theft offences,10376,244
+2011/12,Bedfordshire,Robbery,851,45
+2011/12,Bedfordshire,Sexual offences which are rape,67,8
+2011/12,Bedfordshire,Total Sexual offences,349,25
+2011/12,Bedfordshire,Violence against the person,8243,256
+2011/12,British Transport Police,Burglary,645,20
+2011/12,British Transport Police,Criminal damage,5421,184
+2011/12,British Transport Police,Drug offences,3593,47
+2011/12,British Transport Police,Fraud and forgery,860,21
+2011/12,British Transport Police,Offences against vehicles,1953,139
+2011/12,British Transport Police,Other offences,1149,51
+2011/12,British Transport Police,Other theft offences,25732,1554
+2011/12,British Transport Police,Robbery,607,58
+2011/12,British Transport Police,Sexual offences which are rape,14,3
+2011/12,British Transport Police,Total Sexual offences,740,22
+2011/12,British Transport Police,Violence against the person,12238,226
+2011/12,Cambridgeshire,Burglary,6297,108
+2011/12,Cambridgeshire,Criminal damage,8232,197
+2011/12,Cambridgeshire,Drug offences,2994,147
+2011/12,Cambridgeshire,Fraud and forgery,1893,292
+2011/12,Cambridgeshire,Offences against vehicles,4790,141
+2011/12,Cambridgeshire,Other offences,697,120
+2011/12,Cambridgeshire,Other theft offences,16483,545
+2011/12,Cambridgeshire,Robbery,417,32
+2011/12,Cambridgeshire,Sexual offences which are rape,193,17
+2011/12,Cambridgeshire,Total Sexual offences,696,40
+2011/12,Cambridgeshire,Violence against the person,9159,317
+2011/12,Cheshire,Burglary,7668,152
+2011/12,Cheshire,Criminal damage,11100,294
+2011/12,Cheshire,Drug offences,3372,40
+2011/12,Cheshire,Fraud and forgery,1810,165
+2011/12,Cheshire,Offences against vehicles,5413,108
+2011/12,Cheshire,Other offences,876,63
+2011/12,Cheshire,Other theft offences,16849,570
+2011/12,Cheshire,Robbery,363,15
+2011/12,Cheshire,Sexual offences which are rape,216,28
+2011/12,Cheshire,Total Sexual offences,776,76
+2011/12,Cheshire,Violence against the person,11602,371
+2011/12,Cleveland,Burglary,5112,71
+2011/12,Cleveland,Criminal damage,9338,101
+2011/12,Cleveland,Drug offences,2250,9
+2011/12,Cleveland,Fraud and forgery,799,51
+2011/12,Cleveland,Offences against vehicles,3506,24
+2011/12,Cleveland,Other offences,645,21
+2011/12,Cleveland,Other theft offences,12730,233
+2011/12,Cleveland,Robbery,273,17
+2011/12,Cleveland,Sexual offences which are rape,174,48
+2011/12,Cleveland,Total Sexual offences,585,62
+2011/12,Cleveland,Violence against the person,8297,161
+2011/12,Cumbria,Burglary,2070,82
+2011/12,Cumbria,Criminal damage,6305,210
+2011/12,Cumbria,Drug offences,1819,160
+2011/12,Cumbria,Fraud and forgery,576,84
+2011/12,Cumbria,Offences against vehicles,1544,68
+2011/12,Cumbria,Other offences,478,48
+2011/12,Cumbria,Other theft offences,6520,374
+2011/12,Cumbria,Robbery,54,2
+2011/12,Cumbria,Sexual offences which are rape,113,13
+2011/12,Cumbria,Total Sexual offences,408,32
+2011/12,Cumbria,Violence against the person,6297,342
+2011/12,Derbyshire,Burglary,7979,280
+2011/12,Derbyshire,Criminal damage,11577,508
+2011/12,Derbyshire,Drug offences,2768,150
+2011/12,Derbyshire,Fraud and forgery,1902,363
+2011/12,Derbyshire,Offences against vehicles,5608,211
+2011/12,Derbyshire,Other offences,760,75
+2011/12,Derbyshire,Other theft offences,16519,934
+2011/12,Derbyshire,Robbery,543,24
+2011/12,Derbyshire,Sexual offences which are rape,280,39
+2011/12,Derbyshire,Total Sexual offences,883,70
+2011/12,Derbyshire,Violence against the person,12944,416
+2011/12,Devon & Cornwall,Burglary,9887,441
+2011/12,Devon & Cornwall,Criminal damage,18098,718
+2011/12,Devon & Cornwall,Drug offences,4996,272
+2011/12,Devon & Cornwall,Fraud and forgery,2539,825
+2011/12,Devon & Cornwall,Offences against vehicles,7176,399
+2011/12,Devon & Cornwall,Other offences,1789,229
+2011/12,Devon & Cornwall,Other theft offences,22375,1835
+2011/12,Devon & Cornwall,Robbery,499,42
+2011/12,Devon & Cornwall,Sexual offences which are rape,626,64
+2011/12,Devon & Cornwall,Total Sexual offences,1899,131
+2011/12,Devon & Cornwall,Violence against the person,22550,1086
+2011/12,Dorset,Burglary,5502,110
+2011/12,Dorset,Criminal damage,7972,242
+2011/12,Dorset,Drug offences,1638,164
+2011/12,Dorset,Fraud and forgery,1316,166
+2011/12,Dorset,Offences against vehicles,4601,137
+2011/12,Dorset,Other offences,632,205
+2011/12,Dorset,Other theft offences,14349,456
+2011/12,Dorset,Robbery,237,11
+2011/12,Dorset,Sexual offences which are rape,165,20
+2011/12,Dorset,Total Sexual offences,604,56
+2011/12,Dorset,Violence against the person,8297,431
+2011/12,Durham,Burglary,4735,128
+2011/12,Durham,Criminal damage,7821,227
+2011/12,Durham,Drug offences,1434,58
+2011/12,Durham,Fraud and forgery,640,56
+2011/12,Durham,Offences against vehicles,3626,84
+2011/12,Durham,Other offences,631,84
+2011/12,Durham,Other theft offences,9724,299
+2011/12,Durham,Robbery,103,14
+2011/12,Durham,Sexual offences which are rape,125,13
+2011/12,Durham,Total Sexual offences,432,25
+2011/12,Durham,Violence against the person,6185,343
+2011/12,Dyfed-Powys,Burglary,1715,38
+2011/12,Dyfed-Powys,Criminal damage,4139,73
+2011/12,Dyfed-Powys,Drug offences,3335,55
+2011/12,Dyfed-Powys,Fraud and forgery,635,52
+2011/12,Dyfed-Powys,Offences against vehicles,1177,29
+2011/12,Dyfed-Powys,Other offences,337,9
+2011/12,Dyfed-Powys,Other theft offences,4427,140
+2011/12,Dyfed-Powys,Robbery,37,2
+2011/12,Dyfed-Powys,Sexual offences which are rape,111,11
+2011/12,Dyfed-Powys,Total Sexual offences,368,15
+2011/12,Dyfed-Powys,Violence against the person,4993,118
+2011/12,Essex,Burglary,14011,121
+2011/12,Essex,Criminal damage,16683,262
+2011/12,Essex,Drug offences,4207,18
+2011/12,Essex,Fraud and forgery,3095,494
+2011/12,Essex,Offences against vehicles,12889,271
+2011/12,Essex,Other offences,1558,47
+2011/12,Essex,Other theft offences,28242,1027
+2011/12,Essex,Robbery,1159,15
+2011/12,Essex,Sexual offences which are rape,550,31
+2011/12,Essex,Total Sexual offences,1539,52
+2011/12,Essex,Violence against the person,21694,350
+2011/12,Gloucestershire,Burglary,5743,68
+2011/12,Gloucestershire,Criminal damage,5855,85
+2011/12,Gloucestershire,Drug offences,1526,29
+2011/12,Gloucestershire,Fraud and forgery,972,84
+2011/12,Gloucestershire,Offences against vehicles,3970,84
+2011/12,Gloucestershire,Other offences,460,26
+2011/12,Gloucestershire,Other theft offences,9583,237
+2011/12,Gloucestershire,Robbery,252,5
+2011/12,Gloucestershire,Sexual offences which are rape,152,24
+2011/12,Gloucestershire,Total Sexual offences,516,34
+2011/12,Gloucestershire,Violence against the person,5725,109
+2011/12,Greater Manchester,Burglary,30318,419
+2011/12,Greater Manchester,Criminal damage,35668,470
+2011/12,Greater Manchester,Drug offences,11414,341
+2011/12,Greater Manchester,Fraud and forgery,8073,1086
+2011/12,Greater Manchester,Offences against vehicles,21420,501
+2011/12,Greater Manchester,Other offences,3930,311
+2011/12,Greater Manchester,Other theft offences,50352,1511
+2011/12,Greater Manchester,Robbery,4199,146
+2011/12,Greater Manchester,Sexual offences which are rape,776,120
+2011/12,Greater Manchester,Total Sexual offences,2680,223
+2011/12,Greater Manchester,Violence against the person,39469,1142
+2011/12,Gwent,Burglary,5291,51
+2011/12,Gwent,Criminal damage,7583,76
+2011/12,Gwent,Drug offences,2793,25
+2011/12,Gwent,Fraud and forgery,925,105
+2011/12,Gwent,Offences against vehicles,4526,55
+2011/12,Gwent,Other offences,554,27
+2011/12,Gwent,Other theft offences,9322,183
+2011/12,Gwent,Robbery,126,6
+2011/12,Gwent,Sexual offences which are rape,198,49
+2011/12,Gwent,Total Sexual offences,560,72
+2011/12,Gwent,Violence against the person,7199,167
+2011/12,Hampshire,Burglary,13221,373
+2011/12,Hampshire,Criminal damage,22323,849
+2011/12,Hampshire,Drug offences,6498,118
+2011/12,Hampshire,Fraud and forgery,4757,1163
+2011/12,Hampshire,Offences against vehicles,10492,483
+2011/12,Hampshire,Other offences,1693,154
+2011/12,Hampshire,Other theft offences,36926,1975
+2011/12,Hampshire,Robbery,950,31
+2011/12,Hampshire,Sexual offences which are rape,555,53
+2011/12,Hampshire,Total Sexual offences,1931,142
+2011/12,Hampshire,Violence against the person,30478,1568
+2011/12,Hertfordshire,Burglary,7102,153
+2011/12,Hertfordshire,Criminal damage,10124,509
+2011/12,Hertfordshire,Drug offences,5034,150
+2011/12,Hertfordshire,Fraud and forgery,2807,457
+2011/12,Hertfordshire,Offences against vehicles,7087,341
+2011/12,Hertfordshire,Other offences,823,140
+2011/12,Hertfordshire,Other theft offences,17048,1151
+2011/12,Hertfordshire,Robbery,563,15
+2011/12,Hertfordshire,Sexual offences which are rape,184,20
+2011/12,Hertfordshire,Total Sexual offences,684,52
+2011/12,Hertfordshire,Violence against the person,10979,532
+2011/12,Humberside,Burglary,10916,177
+2011/12,Humberside,Criminal damage,13273,250
+2011/12,Humberside,Drug offences,2720,12
+2011/12,Humberside,Fraud and forgery,1720,216
+2011/12,Humberside,Offences against vehicles,5873,172
+2011/12,Humberside,Other offences,1346,56
+2011/12,Humberside,Other theft offences,20652,788
+2011/12,Humberside,Robbery,507,7
+2011/12,Humberside,Sexual offences which are rape,367,28
+2011/12,Humberside,Total Sexual offences,1171,51
+2011/12,Humberside,Violence against the person,13839,233
+2011/12,Kent,Burglary,12097,266
+2011/12,Kent,Criminal damage,19700,667
+2011/12,Kent,Drug offences,3809,17
+2011/12,Kent,Fraud and forgery,4120,997
+2011/12,Kent,Offences against vehicles,9579,332
+2011/12,Kent,Other offences,1366,77
+2011/12,Kent,Other theft offences,29329,1143
+2011/12,Kent,Robbery,953,56
+2011/12,Kent,Sexual offences which are rape,401,68
+2011/12,Kent,Total Sexual offences,1402,140
+2011/12,Kent,Violence against the person,19438,846
+2011/12,Lancashire,Burglary,11828,174
+2011/12,Lancashire,Criminal damage,19087,515
+2011/12,Lancashire,Drug offences,4732,197
+2011/12,Lancashire,Fraud and forgery,2434,330
+2011/12,Lancashire,Offences against vehicles,8584,245
+2011/12,Lancashire,Other offences,1585,141
+2011/12,Lancashire,Other theft offences,27527,910
+2011/12,Lancashire,Robbery,679,27
+2011/12,Lancashire,Sexual offences which are rape,416,71
+2011/12,Lancashire,Total Sexual offences,1514,194
+2011/12,Lancashire,Violence against the person,21105,1189
+2011/12,Leicestershire,Burglary,8234,177
+2011/12,Leicestershire,Criminal damage,11777,218
+2011/12,Leicestershire,Drug offences,2601,32
+2011/12,Leicestershire,Fraud and forgery,2780,239
+2011/12,Leicestershire,Offences against vehicles,6752,198
+2011/12,Leicestershire,Other offences,1178,49
+2011/12,Leicestershire,Other theft offences,19229,670
+2011/12,Leicestershire,Robbery,935,53
+2011/12,Leicestershire,Sexual offences which are rape,229,34
+2011/12,Leicestershire,Total Sexual offences,893,98
+2011/12,Leicestershire,Violence against the person,13863,418
+2011/12,Lincolnshire,Burglary,6222,157
+2011/12,Lincolnshire,Criminal damage,8188,226
+2011/12,Lincolnshire,Drug offences,1543,78
+2011/12,Lincolnshire,Fraud and forgery,1100,274
+2011/12,Lincolnshire,Offences against vehicles,3751,77
+2011/12,Lincolnshire,Other offences,989,132
+2011/12,Lincolnshire,Other theft offences,13886,730
+2011/12,Lincolnshire,Robbery,191,29
+2011/12,Lincolnshire,Sexual offences which are rape,184,46
+2011/12,Lincolnshire,Total Sexual offences,655,85
+2011/12,Lincolnshire,Violence against the person,7639,509
+2011/12,"London, City of",Burglary,296,11
+2011/12,"London, City of",Criminal damage,234,6
+2011/12,"London, City of",Drug offences,706,15
+2011/12,"London, City of",Fraud and forgery,290,19
+2011/12,"London, City of",Offences against vehicles,194,15
+2011/12,"London, City of",Other offences,106,14
+2011/12,"London, City of",Other theft offences,3517,150
+2011/12,"London, City of",Robbery,46,13
+2011/12,"London, City of",Sexual offences which are rape,2,5
+2011/12,"London, City of",Total Sexual offences,35,12
+2011/12,"London, City of",Violence against the person,695,88
+2011/12,Merseyside,Burglary,13514,159
+2011/12,Merseyside,Criminal damage,18176,301
+2011/12,Merseyside,Drug offences,12804,139
+2011/12,Merseyside,Fraud and forgery,2299,331
+2011/12,Merseyside,Offences against vehicles,8612,191
+2011/12,Merseyside,Other offences,1640,97
+2011/12,Merseyside,Other theft offences,22714,666
+2011/12,Merseyside,Robbery,1398,11
+2011/12,Merseyside,Sexual offences which are rape,408,38
+2011/12,Merseyside,Total Sexual offences,1268,64
+2011/12,Merseyside,Violence against the person,14136,528
+2011/12,Metropolitan Police,Burglary,96181,874
+2011/12,Metropolitan Police,Criminal damage,72939,1301
+2011/12,Metropolitan Police,Drug offences,60799,477
+2011/12,Metropolitan Police,Fraud and forgery,38294,2380
+2011/12,Metropolitan Police,Offences against vehicles,104183,2114
+2011/12,Metropolitan Police,Other offences,10849,717
+2011/12,Metropolitan Police,Other theft offences,228511,4594
+2011/12,Metropolitan Police,Robbery,38897,480
+2011/12,Metropolitan Police,Sexual offences which are rape,3334,400
+2011/12,Metropolitan Police,Total Sexual offences,10121,865
+2011/12,Metropolitan Police,Violence against the person,153851,6095
+2011/12,Norfolk,Burglary,4260,115
+2011/12,Norfolk,Criminal damage,8825,212
+2011/12,Norfolk,Drug offences,2163,81
+2011/12,Norfolk,Fraud and forgery,779,126
+2011/12,Norfolk,Offences against vehicles,3057,89
+2011/12,Norfolk,Other offences,515,81
+2011/12,Norfolk,Other theft offences,11715,534
+2011/12,Norfolk,Robbery,217,17
+2011/12,Norfolk,Sexual offences which are rape,295,30
+2011/12,Norfolk,Total Sexual offences,922,74
+2011/12,Norfolk,Violence against the person,9701,513
+2011/12,North Wales,Burglary,5391,143
+2011/12,North Wales,Criminal damage,8808,308
+2011/12,North Wales,Drug offences,1751,53
+2011/12,North Wales,Fraud and forgery,1373,360
+2011/12,North Wales,Offences against vehicles,2954,103
+2011/12,North Wales,Other offences,692,79
+2011/12,North Wales,Other theft offences,10763,549
+2011/12,North Wales,Robbery,159,11
+2011/12,North Wales,Sexual offences which are rape,214,27
+2011/12,North Wales,Total Sexual offences,639,51
+2011/12,North Wales,Violence against the person,10684,545
+2011/12,North Yorkshire,Burglary,5020,112
+2011/12,North Yorkshire,Criminal damage,6774,188
+2011/12,North Yorkshire,Drug offences,2165,40
+2011/12,North Yorkshire,Fraud and forgery,1044,192
+2011/12,North Yorkshire,Offences against vehicles,3291,91
+2011/12,North Yorkshire,Other offences,499,44
+2011/12,North Yorkshire,Other theft offences,11952,557
+2011/12,North Yorkshire,Robbery,164,14
+2011/12,North Yorkshire,Sexual offences which are rape,175,16
+2011/12,North Yorkshire,Total Sexual offences,549,51
+2011/12,North Yorkshire,Violence against the person,7258,205
+2011/12,Northamptonshire,Burglary,5899,99
+2011/12,Northamptonshire,Criminal damage,9174,276
+2011/12,Northamptonshire,Drug offences,1851,110
+2011/12,Northamptonshire,Fraud and forgery,2133,743
+2011/12,Northamptonshire,Offences against vehicles,5117,207
+2011/12,Northamptonshire,Other offences,757,118
+2011/12,Northamptonshire,Other theft offences,12777,590
+2011/12,Northamptonshire,Robbery,711,15
+2011/12,Northamptonshire,Sexual offences which are rape,247,36
+2011/12,Northamptonshire,Total Sexual offences,754,71
+2011/12,Northamptonshire,Violence against the person,10398,527
+2011/12,Northumbria,Burglary,8598,93
+2011/12,Northumbria,Criminal damage,15127,137
+2011/12,Northumbria,Drug offences,5385,68
+2011/12,Northumbria,Fraud and forgery,1996,104
+2011/12,Northumbria,Offences against vehicles,6348,76
+2011/12,Northumbria,Other offences,1597,54
+2011/12,Northumbria,Other theft offences,21947,369
+2011/12,Northumbria,Robbery,537,16
+2011/12,Northumbria,Sexual offences which are rape,333,64
+2011/12,Northumbria,Total Sexual offences,999,86
+2011/12,Northumbria,Violence against the person,12862,171
+2011/12,Nottinghamshire,Burglary,9871,167
+2011/12,Nottinghamshire,Criminal damage,13613,320
+2011/12,Nottinghamshire,Drug offences,3659,109
+2011/12,Nottinghamshire,Fraud and forgery,1993,358
+2011/12,Nottinghamshire,Offences against vehicles,7837,145
+2011/12,Nottinghamshire,Other offences,1193,83
+2011/12,Nottinghamshire,Other theft offences,22142,614
+2011/12,Nottinghamshire,Robbery,1136,29
+2011/12,Nottinghamshire,Sexual offences which are rape,294,41
+2011/12,Nottinghamshire,Total Sexual offences,930,65
+2011/12,Nottinghamshire,Violence against the person,15047,384
+2011/12,South Wales,Burglary,10178,88
+2011/12,South Wales,Criminal damage,15789,185
+2011/12,South Wales,Drug offences,5776,90
+2011/12,South Wales,Fraud and forgery,2056,125
+2011/12,South Wales,Offences against vehicles,10086,161
+2011/12,South Wales,Other offences,1065,56
+2011/12,South Wales,Other theft offences,24316,493
+2011/12,South Wales,Robbery,486,6
+2011/12,South Wales,Sexual offences which are rape,262,8
+2011/12,South Wales,Total Sexual offences,949,39
+2011/12,South Wales,Violence against the person,16649,306
+2011/12,South Yorkshire,Burglary,16749,93
+2011/12,South Yorkshire,Criminal damage,19328,283
+2011/12,South Yorkshire,Drug offences,4785,31
+2011/12,South Yorkshire,Fraud and forgery,2157,229
+2011/12,South Yorkshire,Offences against vehicles,12331,342
+2011/12,South Yorkshire,Other offences,987,28
+2011/12,South Yorkshire,Other theft offences,29465,687
+2011/12,South Yorkshire,Robbery,861,6
+2011/12,South Yorkshire,Sexual offences which are rape,299,14
+2011/12,South Yorkshire,Total Sexual offences,836,23
+2011/12,South Yorkshire,Violence against the person,13353,142
+2011/12,Staffordshire,Burglary,7509,86
+2011/12,Staffordshire,Criminal damage,12832,103
+2011/12,Staffordshire,Drug offences,3659,7
+2011/12,Staffordshire,Fraud and forgery,2413,691
+2011/12,Staffordshire,Offences against vehicles,5181,105
+2011/12,Staffordshire,Other offences,1006,44
+2011/12,Staffordshire,Other theft offences,16416,247
+2011/12,Staffordshire,Robbery,458,30
+2011/12,Staffordshire,Sexual offences which are rape,202,36
+2011/12,Staffordshire,Total Sexual offences,871,78
+2011/12,Staffordshire,Violence against the person,15335,431
+2011/12,Suffolk,Burglary,5159,100
+2011/12,Suffolk,Criminal damage,8745,246
+2011/12,Suffolk,Drug offences,1709,75
+2011/12,Suffolk,Fraud and forgery,1593,155
+2011/12,Suffolk,Offences against vehicles,4088,132
+2011/12,Suffolk,Other offences,917,37
+2011/12,Suffolk,Other theft offences,12167,513
+2011/12,Suffolk,Robbery,332,22
+2011/12,Suffolk,Sexual offences which are rape,237,37
+2011/12,Suffolk,Total Sexual offences,764,69
+2011/12,Suffolk,Violence against the person,10167,194
+2011/12,Surrey,Burglary,7908,212
+2011/12,Surrey,Criminal damage,11004,322
+2011/12,Surrey,Drug offences,3703,97
+2011/12,Surrey,Fraud and forgery,2845,356
+2011/12,Surrey,Offences against vehicles,6736,325
+2011/12,Surrey,Other offences,1117,152
+2011/12,Surrey,Other theft offences,15362,680
+2011/12,Surrey,Robbery,375,26
+2011/12,Surrey,Sexual offences which are rape,161,39
+2011/12,Surrey,Total Sexual offences,619,72
+2011/12,Surrey,Violence against the person,12088,689
+2011/12,Sussex,Burglary,9974,197
+2011/12,Sussex,Criminal damage,16952,483
+2011/12,Sussex,Drug offences,4970,200
+2011/12,Sussex,Fraud and forgery,3720,1181
+2011/12,Sussex,Offences against vehicles,8902,344
+2011/12,Sussex,Other offences,1505,102
+2011/12,Sussex,Other theft offences,30427,1576
+2011/12,Sussex,Robbery,749,27
+2011/12,Sussex,Sexual offences which are rape,437,39
+2011/12,Sussex,Total Sexual offences,1467,77
+2011/12,Sussex,Violence against the person,17880,631
+2011/12,Thames Valley,Burglary,18866,134
+2011/12,Thames Valley,Criminal damage,21996,376
+2011/12,Thames Valley,Drug offences,7299,252
+2011/12,Thames Valley,Fraud and forgery,7103,319
+2011/12,Thames Valley,Offences against vehicles,15173,276
+2011/12,Thames Valley,Other offences,1958,231
+2011/12,Thames Valley,Other theft offences,46357,1223
+2011/12,Thames Valley,Robbery,1726,26
+2011/12,Thames Valley,Sexual offences which are rape,467,38
+2011/12,Thames Valley,Total Sexual offences,1961,102
+2011/12,Thames Valley,Violence against the person,27327,870
+2011/12,Warwickshire,Burglary,5576,65
+2011/12,Warwickshire,Criminal damage,5417,116
+2011/12,Warwickshire,Drug offences,1091,49
+2011/12,Warwickshire,Fraud and forgery,969,154
+2011/12,Warwickshire,Offences against vehicles,4517,85
+2011/12,Warwickshire,Other offences,618,702
+2011/12,Warwickshire,Other theft offences,9736,275
+2011/12,Warwickshire,Robbery,323,6
+2011/12,Warwickshire,Sexual offences which are rape,131,10
+2011/12,Warwickshire,Total Sexual offences,464,26
+2011/12,Warwickshire,Violence against the person,5150,171
+2011/12,West Mercia,Burglary,8417,138
+2011/12,West Mercia,Criminal damage,12222,323
+2011/12,West Mercia,Drug offences,3014,200
+2011/12,West Mercia,Fraud and forgery,2731,279
+2011/12,West Mercia,Offences against vehicles,6982,139
+2011/12,West Mercia,Other offences,1296,188
+2011/12,West Mercia,Other theft offences,18977,519
+2011/12,West Mercia,Robbery,470,19
+2011/12,West Mercia,Sexual offences which are rape,408,33
+2011/12,West Mercia,Total Sexual offences,1270,108
+2011/12,West Mercia,Violence against the person,14203,470
+2011/12,West Midlands,Burglary,28170,366
+2011/12,West Midlands,Criminal damage,30725,550
+2011/12,West Midlands,Drug offences,9220,315
+2011/12,West Midlands,Fraud and forgery,8611,559
+2011/12,West Midlands,Offences against vehicles,25096,510
+2011/12,West Midlands,Other offences,2966,222
+2011/12,West Midlands,Other theft offences,43302,968
+2011/12,West Midlands,Robbery,7260,138
+2011/12,West Midlands,Sexual offences which are rape,835,74
+2011/12,West Midlands,Total Sexual offences,2725,136
+2011/12,West Midlands,Violence against the person,35457,1322
+2011/12,West Yorkshire,Burglary,33261,523
+2011/12,West Yorkshire,Criminal damage,29658,853
+2011/12,West Yorkshire,Drug offences,7507,582
+2011/12,West Yorkshire,Fraud and forgery,4864,1371
+2011/12,West Yorkshire,Offences against vehicles,23463,773
+2011/12,West Yorkshire,Other offences,3253,1104
+2011/12,West Yorkshire,Other theft offences,50995,2645
+2011/12,West Yorkshire,Robbery,2431,80
+2011/12,West Yorkshire,Sexual offences which are rape,549,71
+2011/12,West Yorkshire,Total Sexual offences,1955,196
+2011/12,West Yorkshire,Violence against the person,26698,1652
+2011/12,Wiltshire,Burglary,4658,144
+2011/12,Wiltshire,Criminal damage,6891,341
+2011/12,Wiltshire,Drug offences,1228,22
+2011/12,Wiltshire,Fraud and forgery,1109,346
+2011/12,Wiltshire,Offences against vehicles,3884,112
+2011/12,Wiltshire,Other offences,378,93
+2011/12,Wiltshire,Other theft offences,10460,564
+2011/12,Wiltshire,Robbery,246,35
+2011/12,Wiltshire,Sexual offences which are rape,174,17
+2011/12,Wiltshire,Total Sexual offences,568,27
+2011/12,Wiltshire,Violence against the person,6624,354
